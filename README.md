@@ -1,4 +1,4 @@
-# Patching mt76x0-common.ko Module on OpenWRT Devices for EPSON-Doog Project
+# Patching mt76x0-common.ko Module on OpenWRT Devices
 
 This guide explains how to replace and verify a patched `mt76x0-common.ko` kernel module on OpenWRT. The provided steps involve hex editing, copying, and verifying the module for a specific use case.
 
